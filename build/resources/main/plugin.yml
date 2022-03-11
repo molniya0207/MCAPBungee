@@ -1,0 +1,5 @@
+name: MCAPBungee
+main: one.mcauth.mcapbungee.Main
+version: 1.0.0
+author: Stopper
+api-version: 1.16
